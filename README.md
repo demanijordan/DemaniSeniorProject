@@ -17,6 +17,7 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
 
 
+### Video Resources
 
 [Aaron Pallas: Enigmatic Inequality in New York City's Public Schools](https://youtu.be/JEoAjspQPlI)
 
@@ -26,9 +27,11 @@ Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Tem
 
 [New York States Extreme School Segregation](https://youtu.be/sZJiRJPw0ZU)
 
+### Article Resources
+
 [Inequality in Teaching and Schooling](https://www.city-journal.org/html/fight-over-flunked-out-teachers-15661.html)
 
-[Unequal Education in NYC Public Schools] (https://www.city-journal.org/html/fight-over-flunked-out-teachers-15661.html)
+[Unequal Education in NYC Public Schools](https://www.city-journal.org/html/fight-over-flunked-out-teachers-15661.html)
 
 [SAT Optional Bigotry](https://www.city-journal.org/html/fight-over-flunked-out-teachers-15661.html)
 
